@@ -2,96 +2,63 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Varun Tirthani
+    - name: Email
+      value: varun [dot] tirthani [@] stern [dot] nyu [dot] edu
+    - name: Mobile
+      value: +1 (929) [395] [2574]
+    - name: Location
+      value: New York, NY
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master Of Science
+      institution: New York University Stern & GSAS
+      year: Sep '23 - May '25
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'GPA: 3.78/4.00'
+        - 'Coursework: Financial Securities, Macroeconomics, Econometrics & Stat Arbitrage, Systematic Trading, Corporate Finance'
+        - 'Activities: Member of Stern Private Equity & Special Situation Investing Groups'
+    
+    - title: Bachelor Of Technology
+      institution: PES University
+      year: Aug '18 - May '22
       description:
-        - Description 1.
-        - Description 2.
+        - 'Specialization: Machine Intelligence and Data Science'
+        - 'Recipient Of Dean’s Merit Scholarship (received by top 5% of graduating class)'
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Summer Analyst"
+      institution: Goldman Sachs, New York
+      year: Jun '24 - Aug '24
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and built counterparty servicing flow as part of Investment Servicing team that linked invested products to agents
+          and improved settlement transaction speeds by 60%
+        - Reduced manual onboarding time from days to minutes for Luxembourg Funds enabling tax credit savings of around $50 million USD per year
+        - Developed migration strategy for standing settlement instructions (SSI) to strategic solution reducing wiring execution times by 50%
+        - 
+    - title: "Analyst"
+      institution: Goldman Sachs, Bangalore
+      year: Jun '22 - July '23
       description:
-        - Description 1.
-        - Description 2.
+        - Onboarded vendor CRM tool for sourcing deals in the Asset And Wealth Management (Private) division
+        - Conducted peer analysis and recommended resolution for around 100 deal data issues after programmatically scanning through approximately 20,000 legacy and live deals and was responsible for 30% reduction in cloud bills
+        - Collaborated and researched with deal teams across 7 investment sleeves to ideate workflows, ensuring alignment with client needs and enhancing decision-making
+        - Maintained internal repositories of domain knowledge, documented best practices and mentored 5 new joiners
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: "Spring Analyst"
+      institution: Goldman Sachs, Bangalore
+      year: Jan '22 - Jun '22
+      description:
+          - Accelerated deal close velocity from 2 to 4 per week, driving $30M in annual revenue, through seamless integration of regulatory and compliance requirements
+          - Generated automated and tailored investment reporting by asset type and geography, reducing manual effort by 30% and resulting in 20% improvement in decision-making speed, enhancing overall stakeholder effectiveness
 
-    - title: Professor of Theoretical Physics
+    - title: "Summer Analyst"
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      year: Jun '21 - Jul '21
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+          - Streamlined access to company information for deal teams by improving document search retrieval speeds by 90% through caching, enabling faster and more efficient deal sourcing
+          - Boosted deal team engagement and satisfaction on platform by 50%
